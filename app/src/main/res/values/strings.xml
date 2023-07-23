@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select">English</string>
+    <string name="search_in_everything">Search in everything…</string>
+    <string name="search_hint">searchHint</string>
+    <string name="news_app">News App</string>
+    <string name="categories">categories</string>
+    <string name="settings">settings</string>
+    <string name="published_at">published at</string>
+    <string name="title">Title</string>
+    <string name="sub_description">Sub Description</string>
+    <string name="content">Content</string>
+    <string name="view_full_article">View Full Article</string>
+    <string name="reuters_editorial">Reuters Editorial</string>
+    <string name="crypto_weekly_something_in_the_ether_reuters">Crypto Weekly: something in the Ether - Reuters</string>
+    <string name="_2022_09_13t17_25_35z">2022-09-13T17:25:35Z</string>
+    <string name="language">Language</string>
+    <string name="sports">Sports</string>
+    <string name="search">search</string>
+    <string name="health">health</string>
+    <string name="pick_your_category_of_interest">Pick your category of interest</string>
+</resources>
